@@ -29,28 +29,28 @@
   ## Installation:
   Please ensure you do the following -
   
-npm init
+`npm init`
 
-npm install mysql2
+`npm install mysql2`
 
-npm install sequelize
+`npm install sequelize`
 
-npm install dotenv
+`npm install dotenv`
 
   ## Usage:
   If you would like to use this program upon downloading - Run the following command at the root of your project and answer the prompted questions:
 
-mysql -u root -p
+`mysql -u root -p`
 
 Enter your password when promted
 
-SOURCE db/schema.sql
+`SOURCE db/schema.sql`
 
-quit
+`quit`
 
-npm run seed
+`npm run seed`
 
-npm start
+`npm start`
 
   ## License:
   None
