@@ -24,7 +24,7 @@
 
 
   ## Video Walkthrough:
-  https://www.youtube.com/watch?v=5soP2b5TSx0&ab_channel=TJB
+  https://www.youtube.com/watch?v=hh6WZ4lCPRI&ab_channel=TJB
   
   ## Installation:
   Please ensure you do the following -
